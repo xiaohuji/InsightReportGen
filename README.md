@@ -67,6 +67,6 @@
 
 ![investReport2](img/investReport2.png)
 
-- **数据报告：（内容已模糊处理）**
+- **数据报告：（内容已使用豆包模糊处理）**
 
 ![scienceReport1](img/scienceReport1.png)
